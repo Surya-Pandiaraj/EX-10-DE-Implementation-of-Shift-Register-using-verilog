@@ -1,0 +1,1 @@
+# EX-10-DE-Implementation-of-Shift-Register-using-verilog
